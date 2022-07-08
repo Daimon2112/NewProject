@@ -1,4 +1,4 @@
-package sitefortestecommerce.stefortestecommerce;
+package testforecommerce;
 
 public class MainTest extends BaseTest {
 

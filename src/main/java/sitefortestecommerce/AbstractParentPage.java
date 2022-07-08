@@ -1,4 +1,4 @@
-package somepac.sitefortestecommerce;
+package sitefortestecommerce;
 
 import org.openqa.selenium.WebDriver;
 
